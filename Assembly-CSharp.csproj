@@ -44,6 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Ball.cs" />
      <Compile Include="Assets\Draw.cs" />
      <Compile Include="Assets\MoveBall1.cs" />
      <Compile Include="Assets\Touch.cs" />

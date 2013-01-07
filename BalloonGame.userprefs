@@ -3,7 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Touch.cs">
     <Files>
       <File FileName="../../Users/sky/Downloads/Touch/Assets/createTouchSphere.js" Line="40" Column="1" />
-      <File FileName="Assets/Touch.cs" Line="21" Column="11" />
+      <File FileName="Assets/Touch.cs" Line="17" Column="48" />
+      <File FileName="Assets/Draw.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
